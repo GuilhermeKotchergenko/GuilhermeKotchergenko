@@ -5,13 +5,11 @@
 ---
 ### About
 
-**AI and Data Science student** with a background in business.
+**AI and Data Science student** at University of Porto. First bachelors in business.
 
 Applied **Deep Learning** and **Machine Learning** techniques to enhance model reliability and extract actionable insights from data
 
 Experienced in **Data Analysis** and **Data Engineering** to drive business efficiency
-
-Currently pursuing a Bachelor's in Artificial Intelligence and Data Science at the University of Porto
 
 ---
 ### Stack
